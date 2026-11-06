@@ -25,7 +25,7 @@ US markets were closed for the night session at time of writing, so the prices b
 
 - **Sector:** Technology — industry: Consumer Electronics
 - **Headquarters:** Cupertino, California, United States
-- **Most recent share price:** **$344.17** (previous close $349.51; session change −$5.34 / −1.53%) — pre-market indication $341.50 (−$2.67 / −0.62% vs. the $344.17 quote above... lower-case note removed — pre-market edge $341.50, about $7.5 below the last close)
+- **Most recent share price:** **$344.17** (previous close $349.51; session change −$5.34 / −1.53%) — pre-market indication $341.50, about $2.67 / −0.62% lower than the last close
 - **Top Yahoo Finance headlines currently showing:** *None returned — feed outage in place* (see caveat below)
 
 ### Microsoft Corporation (MSFT)
@@ -44,12 +44,12 @@ US markets were closed for the night session at time of writing, so the prices b
 - **Top Yahoo Finance headlines currently showing:** *None returned — feed outage in place* (see caveat below)
 
 > **⚠️ Data caveat — Yahoo Finance news feed is down this week (2026-11-06).**
-> The Yahoo Finance news feed for AAPL, MSFT and NVDA returned the message "*** YAHOO! FINANCE IS CURRENTLY DOWN! ***" on **every attempt** — five queries in total (approximately 11:39–11:45 UTC on 6 November 2026). The corporate-actions field still populated on the feed, which is why the quote data above is complete, but the news section is genuinely empty. This week's headline bullet for each company is therefore recorded as a feed outage rather than supplied from an older note or invented:
+> The Yahoo Finance news feed for AAPL, MSFT and NVDA returned the message "*** YAHOO! FINANCE IS CURRENTLY DOWN! ***" on **every attempt** — five queries in total (approximately 11:39–11:45 UTC on 6 November 2026). The corporate-actions field still populated on the feed, which is why the quote data above is complete, but the news section is genuinely empty. This weeks headline bullet for each company is therefore recorded as a feed outage rather than supplied from an older note or invented:
 > * "No news returned for AAPL (feed down at time of pulling, 2026-11-06 ~11:40 UTC)"
 > * "No news returned for MSFT (feed down at time of pulling, 2026-11-06 ~11:40 UTC)"
 > * "No news returned for NVDA (feed down at time of pulling, 2026-11-06 ~11:40 UTC)"
 >
-> No headline titles were fabricated and none were lifted from previous editions. Recommend re-pulling the news feeds before this goes out, or treating the headline bullets as "N/A — feed down" for this week's edition.
+> No headline titles were fabricated and none were lifted from previous editions. Recommend re-pulling the news feeds before this goes out, or treating the headline bullets as "N/A — feed down" for this weeks edition.
 
 ---
 
